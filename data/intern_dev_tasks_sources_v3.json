@@ -1,0 +1,110 @@
+{
+  "tasks": [
+    {
+      "name": "Add Feature to Website",
+      "description": "إضافة زر، واجهة جديدة، أو تحسين وظيفة موجودة",
+      "sources": [
+        {
+          "name": "FreeCodeCamp",
+          "url": "https://www.freecodecamp.org/"
+        },
+        {
+          "name": "Codecademy",
+          "url": "https://www.codecademy.com/"
+        },
+        {
+          "name": "MDN Web Docs",
+          "url": "https://developer.mozilla.org/"
+        },
+        {
+          "name": "React Documentation",
+          "url": "https://react.dev/"
+        }
+      ]
+    },
+    {
+      "name": "API Integration",
+      "description": "ربط الموقع مع API خارجي مثل خدمة الطقس أو الأخبار",
+      "sources": [
+        {
+          "name": "PostgreSQL Documentation",
+          "url": "https://www.postgresql.org/docs/"
+        },
+        {
+          "name": "MongoDB University",
+          "url": "https://learn.mongodb.com/"
+        },
+        {
+          "name": "Redis Documentation",
+          "url": "https://redis.io/documentation"
+        },
+        {
+          "name": "GitHub Actions Documentation",
+          "url": "https://docs.github.com/en/actions"
+        }
+      ]
+    },
+    {
+      "name": "Debugging",
+      "description": "تحديد الخطأ في كود موجود وإصلاحه",
+      "sources": [
+        {
+          "name": "Jest Documentation",
+          "url": "https://jestjs.io/docs/getting-started"
+        },
+        {
+          "name": "Testing Library",
+          "url": "https://testing-library.com/"
+        },
+        {
+          "name": "Selenium WebDriver",
+          "url": "https://selenium-python.readthedocs.io/"
+        },
+        {
+          "name": "Google Testing Blog",
+          "url": "https://testing.googleblog.com/"
+        }
+      ]
+    },
+    {
+      "name": "Create New Page (Front-End Task)",
+      "description": "بناء صفحة HTML/CSS جديدة أو تعديل صفحة موجودة",
+      "sources": [
+        {
+          "name": "MDN Web Docs",
+          "url": "https://developer.mozilla.org/"
+        },
+        {
+          "name": "JavaScript.info",
+          "url": "https://javascript.info/"
+        },
+        {
+          "name": "React Documentation",
+          "url": "https://react.dev/"
+        }
+      ]
+    },
+    {
+      "name": "Git Task (Upload Small Project)",
+      "description": "إنشاء repository ورفع الملفات ومتابعة النسخ",
+      "sources": [
+        {
+          "name": "Pro Git Book",
+          "url": "https://git-scm.com/book"
+        },
+        {
+          "name": "GitHub Learning Lab",
+          "url": "https://github.com/skills"
+        },
+        {
+          "name": "Atlassian Git Tutorials",
+          "url": "https://www.atlassian.com/git/tutorials"
+        },
+        {
+          "name": "Google Code Review Guidelines",
+          "url": "https://google.github.io/eng-practices/review/"
+        }
+      ]
+    }
+  ]
+}
